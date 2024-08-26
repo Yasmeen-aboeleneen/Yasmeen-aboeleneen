@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/yasmeen-abo-eleneen-621081223/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="46" alt="linkedin logo"  />
   </a>
-  <a href="Yasmeen_Tarek7" target="_blank">
+  <a href="https://x.com/Yasmeen_Tarek7" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="63" height="46" alt="twitter logo"  />
   </a>
   <a href="yasmeenaboeleneen3@gmail.com" target="_blank">
