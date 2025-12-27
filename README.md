@@ -4,10 +4,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">📚 I am currently a student in the fourth level <br>of the distinguished qualitative program "Computer Teacher in English"<br>Faculty of Specific Education, Mansoura University.<br><br>🎯 Goals: To become an expert in developing applications using<br>the Flutter framework &<br>To complete my studies to obtain a master's and a doctorate in AI.<br> <br>📫 How to reach me yasmeenaboeleneen3@gmail.com<br><br>⚡Learning never stops; those who stop learning stop growing</p>
-
+ 
 ###
 
 <p align="left">Contact with me on:</p>
